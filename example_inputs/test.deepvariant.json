@@ -1,0 +1,7 @@
+{
+    "outdir" : "/raid/output",
+    "inputBam" : "/raid/output//output.bam",
+    "inputRef" : "/raid/parabricks_sample/Ref/Homo_sapiens_assembly38.fasta", 
+    "pbPATH" : "pbrun",
+    "tmpDir" : "deepvariant"
+}
